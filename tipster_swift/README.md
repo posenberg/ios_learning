@@ -1,5 +1,5 @@
 ##Following CodePath's Swift Version
-
+![](tip.gif)
 ###Step One:  
 Create your assets in Main.Storyboard
 
