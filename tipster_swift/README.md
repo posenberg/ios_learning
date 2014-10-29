@@ -1,6 +1,5 @@
-##Following CodePath's Swift Version 
+##Following CodePath's Swift Version
 
-![](/Users/melindapo/ios_learning/tipster_swift/tip.gif)
 ###Step One:  
 Create your assets in Main.Storyboard
 
