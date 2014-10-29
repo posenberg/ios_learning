@@ -1,4 +1,4 @@
-##Following CodePath's Swift Version of Swift
+##Following CodePath's Swift Version
 
 ###Step One:  
 Create your assets in Main.Storyboard
