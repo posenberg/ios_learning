@@ -1,5 +1,5 @@
 ##Week 3 Part 1 Animation
-![](/Users/melindapo/ios_learning/animateDemo/headspinning.gif)
+![](headspinning.gif)
 
 >Note: CG Means ""Core Graphics"
 
