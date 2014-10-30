@@ -4,7 +4,9 @@
 >Note: CG Means ""Core Graphics"
 
 ####STEP 1. Add image to Images.xcassets
-####STEP 2. 
+####STEP 2. Create image and button on storyboard.
+####STEP 3. Create IBOutlets of the image and button in ViewController.Swift
+####STEP 4. Create function 
 ```
     func chargeHead() {
     	// 
